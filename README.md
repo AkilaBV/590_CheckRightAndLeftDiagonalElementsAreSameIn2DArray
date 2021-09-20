@@ -1,0 +1,1 @@
+# 590_CheckRightAndLeftDiagonalElementsAreSameIn2DArray
